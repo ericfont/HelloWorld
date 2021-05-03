@@ -2,5 +2,5 @@
 
 int main()
 {
-  std::cout << "Hello world test cross-compile via GitHub!\nTagged v1.01\n";
+  std::cout << "Hello world test cross-compile via GitHub!\nTagged v1.0.1\n";
 }
